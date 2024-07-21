@@ -1,0 +1,6 @@
+train: D:\academic\Internship\CWNU\Actual\yolov5\road-traffic-3\train\images
+val: D:\academic\Internship\CWNU\Actual\yolov5\road-traffic-3\valid\images
+test: D:\academic\Internship\CWNU\Actual\yolov5\road-traffic-3\test\images
+
+nc: 7
+names: ['bicycles', 'buses', 'crosswalks', 'fire hydrants', 'motorcycles', 'traffic lights', 'vehicles']
